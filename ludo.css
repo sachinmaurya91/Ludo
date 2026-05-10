@@ -1,0 +1,218 @@
+#outer
+{
+	height: 800px;
+	width: 900px;
+	background: gray;
+	border: 2px solid black;
+}
+#top
+{
+	height: 300px;  
+	width: 900px;
+	background: skyblue;
+}
+#top_box1
+{
+	height: 200px;
+	width: 250px;
+	background: white;
+	float: left;
+	border: 50px solid blue;
+}
+#child1
+{
+	height: 50px;
+	width: 63px;
+	background: blue;
+	float: left;
+	margin: 25px ;
+}
+
+
+
+#top_box2
+{
+	height: 300px;
+	width: 200px;
+	background: green;
+	float: left;
+}
+#b
+{
+	height: 46px;
+	width: 62px;
+	background: white;
+	float: left;
+	border: 2px solid black;
+}
+#b1
+{
+	height: 46px;
+	width: 62px;
+	background: red;
+	float: left;
+	border: 2px solid black;
+}
+
+
+#top_box3
+{
+	height: 200px;
+	width: 250px;
+	background: white;
+	float: left;
+	border: 50px solid red;
+}
+#child2
+{
+	height: 50px;
+	width: 63px;
+	background: red;
+	float: left;
+	margin: 25px ;
+}
+
+
+
+#middle
+{
+	height: 200px;
+	width: 900px;
+	background: black;
+}
+#m1
+{
+	height: 200px;
+	width: 350px;
+	background: pink;
+	float: left;
+}
+#a
+{
+	height: 62px;
+	width: 54px;
+	background: white;
+	float: left;
+	border: 2px solid black;
+}
+#a1
+{
+	height: 62px;
+	width: 54px;
+	background: blue;
+	float: left;
+	border: 2px solid black;
+}
+
+
+
+#m2
+{
+	height: 200px;
+	width: 200px;
+	background: maroon;
+	float: left;
+}
+#sachin
+{
+	height: px;
+	width: px;
+	background: gray;
+	border-top: 100px solid red;	
+	border-left: 100px solid blue;
+	border-bottom: 100px solid yellow;
+	border-right: 100px solid green;
+}
+
+
+
+#m3
+{
+	height: 200px;
+	width: 350px;
+	background: black;
+	float: left;
+}
+#d
+{
+	height: 62px;
+	width: 54px;
+	background: white;
+	float: left;
+	border: 2px solid black;
+}
+#d1
+{
+	height: 62px;
+	width: 54px;
+	background: green;
+	float: left;
+	border: 2px solid black;
+}
+
+
+
+
+
+#bottom
+{
+	height: 300px;
+	width: 900px;
+	background: pink;
+}
+#b_box1
+{
+	height: 200px;
+	width: 250px;
+	background: white;
+	float: left;
+	border: 50px solid yellow;
+}
+#child3
+{
+	height: 50px;
+	width: 63px;
+	background: yellow;
+	float: left;
+	margin: 25px ;
+}
+#b_box2
+{
+	height: 300px;
+	width: 200px;
+	background: pink;
+	float: left;
+}
+#c
+{
+	height: 46px;
+	width: 62px;
+	background: white;
+	float: left;
+	border: 2px solid black;
+}
+#c1
+{
+	height: 46px;
+	width: 62px;
+	background: yellow;
+	float: left;
+	border: 2px solid black;
+}
+
+#b_box3
+{
+	height: 200px;
+	width: 250px;
+	background: white;
+	float: left;
+	border: 50px solid green;
+}
+#child4
+{
+	height: 50px;
+	width: 63px;
+	background: green;
+	float: left;
+	margin: 25px ;
+}
